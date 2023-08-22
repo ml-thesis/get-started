@@ -1,14 +1,14 @@
 # Getting started
 
 This organization is meant for TU Eindhoven students working on machine learning projects.  
-First of all, contact Joaquin Vanschoren with your GutHub account name to add you as a member.
+First of all, contact Joaquin Vanschoren with your GitHub account name to add you as a member.
 
-## Creating you repo
+## Creating your repo
 There are a few options here:
 
-* Just create a new repo and start using it for your work (easiest). Follow the instructions to link it to a local folder.
-* Transfer an existing repo to this organization. Contact Joaquin about this.
-* Fork an existing repo to this organization. Follow the steps below to keep it synchronized.
+* Just create a new repo and start using it for your work, or submit your existing work. Follow the instructions to link it to a local folder and push your code.
+* If you have created your own GitHub repo already, you can transfer it to this organization. In your GitHub repo, see Settings > Danger Zone > Transfer ownership to new organization.
+* If you prefer to keep maintaining your code after the thesis, fork your existing repo to this organization. Optionally, you can follow the steps below to keep it synchronized.
 
 ## Synchronizing forks
 You can use [this workflow](https://github.com/aormsby/Fork-Sync-With-Upstream-action#when-you-want-to-merge-into-an-acive-working-branch-not-recommended)
