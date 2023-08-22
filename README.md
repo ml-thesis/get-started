@@ -8,7 +8,7 @@ There are a few options here. For all of these, the first step is
 
 ### Create a new repo 
 Easiest option if you haven't started yet or you have your code locally only
-* On the [main organization page](https://github.com/ml-tue), click the green button with 'New').
+* On the [main organization page](https://github.com/ml-tue), click the green button with 'New'.
 * Follow the instructions to link it to a local folder and push your code.
 
 ### Transfer your repo 
